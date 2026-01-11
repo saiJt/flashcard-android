@@ -7,6 +7,13 @@ I started developing this app because I couldn’t find an existing vocabulary a
 that matched how I personally want to study.
 Rather than adapting to another app’s workflow, I decided to build my own.
 
+
+Goal: 
+틀린문제 list
+틀린 문제 on/off
+
+단어 추가
+단어장 이름 붙이기
 ---------------------------
 ## What was developed
 ### 2025.12.29
