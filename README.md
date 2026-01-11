@@ -14,6 +14,11 @@ Goal:
 
 단어 추가
 단어장 이름 붙이기
+새로운 단어장 만들기
+Flashcard mode
+List mode
+Word 랑 meaning 바꾸기
+단어장에서 단어 삭제
 ---------------------------
 ## What was developed
 ### 2025.12.29
